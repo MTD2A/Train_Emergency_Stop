@@ -18,13 +18,13 @@ To ensure smooth, stable train operation and lights that do not flicker, it is r
 ![](/image/Massoth-PowerCap-micro.jpg)
 
 For analog operation, [Massoth](https://www.massoth.de/en/) recommends the largest possible buffer to ensure light & sound effects (Standing Noise) when the train is stationary.
-It is possible to configure how many seconds  [PowerCap](/image/Massoth-PowerCap-micro.jpg) should take over in the event of an electrical interruption on the rails. CV 47 can be configured on the Massoth eMOTION XLS between 1..240 in steps of 0.125 seconds per step. By default, CV 49 is set to 10 = 1.25 seconds. At first glance, one might think that it was so short that the train stops in time. But it only works at slow speeds, or where the interruption of the rails occurs several meters earlier.
+It is possible to configure how many seconds  [PowerCap](/image/Massoth-PowerCap-micro.jpg) should take over in the event of an electrical interruption on the rails. CV 47 can be configured on the Massoth [eMOTION XLS](/image/massoth-emotion-xls-sound-decoder.jpg) between 1..240 in steps of 0.125 seconds per step. By default, CV 49 is set to 10 = 1.25 seconds. At first glance, one might think that it was so short that the train stops in time. But it only works at slow speeds, or where the interruption of the rails occurs several meters earlier.
 
-Test experiments with CV 47 = 10 have shown that at medium speed (corresponding to 44 km/h in full scale) a small locomotive will travel a distance of about 130 cm. before it stops completely. At higher speeds (57 km/h) the locomotive will only stop after 165 cm. Longer locomotives with two sets of drag shoes will travel even further before coming to a complete stop. The same applies to heavy locomotives / train sets. Electrical disconnection of rails is therefore **not** sufficient when a decoder is supplemented with [PowerCap](/image/Massoth-PowerCap-micro.jpg).
+Test experiments with CV 47 = 10 have shown that at medium speed (corresponding to 44 km/h in full scale) a small locomotive will travel a distance of about 130 cm. before it stops completely. At higher speeds (57 km/h) the locomotive will only stop after 165 cm. Longer locomotives with two sets of electrical pickup shoes will travel even further before coming to a complete stop. The same applies to heavy locomotives / train sets. Electrical disconnection of rails is therefore **not** sufficient when a decoder is supplemented with [PowerCap](/image/Massoth-PowerCap-micro.jpg).
 
 ## Functinal concept
 
 ![](/image/Functional%20concept.png)
 
-# Reflection and Refraction concept
+## Reflection and Refraction concept
 ![](/image/Infrared%20break%20beam%20solution.png)
