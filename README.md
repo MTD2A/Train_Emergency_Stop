@@ -46,10 +46,10 @@ By pressing the Emergency Stop button on your [throttle](https://dccwiki.com/Thr
 * Requires special design of control electronics.
 * A lot of extra manual work.
 
+
 ## Functinal concept
 
 ![](/image/Functional%20concept.png)
-
 
 ## Chronological process overview
 When a swing bridge is opened, the circuit is activated via a micro switch, and the green status LED is switched on and lights up constantly. The connected sensors measure whether there are train cars or locomotives running on the rails, and thus whether they are about to fall over the edge.
