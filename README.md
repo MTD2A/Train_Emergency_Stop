@@ -1,5 +1,4 @@
-# Train_Emergency_Stop
-IR+Ultrasonic+Laser Sensor DCC Emergency STOP
+# IR+Ultrasonic+Laser Sensor DCC Emergency STOP
 
 ## Background
 The [DGMF](https://danskgmodelforening.dk/) rail system has swing bridges for passenger passage, which can cause train systems to drive over the edge and fall to the floor. To counteract this type of potential accident, automatic micro switches have been installed to electrically disconnect the rails at a distance of between 125 – 185 cm.
