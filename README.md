@@ -38,7 +38,7 @@ By pressing the Emergency Stop button on your [throttle](https://dccwiki.com/Thr
 ### Advantages 
 * Cheap and effective for all types of locomotives and wagons.
 * Works in both forward and reverse driving.
-* Works immediately in the opposite direction of electrical interruption.
+* Works immediately, unlike electrical disconnection.
 * Works with both analog and digital control. 
 
 ### Disadvantages
