@@ -575,7 +575,7 @@ short IR_GP2Y0A_Calculate_Dist(const short &IR_Value_Calc, const byte &IR_GP2Y0A
     switch (IR_GP2Y0A_Type) {
       case A21: { IR_Value_Calc_CM = (short)round((7700.0F / (IR_Value_Calc + 10)) - 6); } break;
     	case A41: { IR_Value_Calc_CM = (short)round((3300.0F / (IR_Value_Calc + 10)) - 1); } break;
-    	case A51: { IR_Value_Calc_CM = (short)round((2000.0F / (IR_Value_Calc + 30)) - 3); } break;
+    	case A51: { IR_Value_Calc_CM = (short)round((2200.0F / (IR_Value_Calc + 35)) - 3); } break;
     }
     if (IR_GP2Y0A_Debug == YES) {
       PortPrint(F("IR_GP2Y0A [")); PortPrint(IR_GP2Y0A_No); PortPrint(F("] (cm): ")); PortPrintln(IR_Value_Calc_CM);
