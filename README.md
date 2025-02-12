@@ -28,7 +28,7 @@ E-STOP or Emergency Stop is a special [speed step](https://dccwiki.com/Speed_Ste
 If the Least Significant Bit (S0) is set to one (0001), the value is the E-Stop command. E-Stop is a Broadcast command, meaning that all decoders will immediately change to STOP and all moving trains halt.
 
 > [!NOTE]
-Unlike some other suppliers, Massoth Central Station disconnects the connection to the rails during emergency stops.
+Unlike some other suppliers, Massoth Central Station disconnects the power to the rails during emergency stops.
 
 By pressing the Emergency Stop button on your [throttle](https://dccwiki.com/Throttle) the command station generates a broadcast packet with the E-Stop command and that is immediately transmitted to the [booster](https://dccwiki.com/Booster) and onto the rails. Everything in motion will immediately stop. The Standard states that the decoder shall immediately cease applying power to the motor.
 
