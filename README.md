@@ -5,7 +5,7 @@ The [DGMF](https://danskgmodelforening.dk/) rail system has swing bridges for pa
 
 However, the electrical disconnection is not sufficient on locomotives that have installed [PowerCap](/image/Massoth-PowerCap-micro.jpg), which is designed to power the decoder and motor even if the connection to the rails is disconnected. The same applies to tracks that end blindly or with end stops. The electrical disconnection also does not work sufficiently for larger trainsets that are reversing, or trainsets where the locomotive pushes cars forward at the rear.
 
-There is a need for a new solution that works independently of the direction of travel, and thus where the locomotive is located. In the following, a digitally controlled solution is described, which is basically based on infrared passage measurement and [DCC E-stop](https://dccwiki.com/E-Stop) (emergency stop) via the [DiMAX Feed Back module](/image/Massoth-8170010-Dimax-FB-Feedback-module.jpg).
+There is a need for a new solution that works independently of the direction of travel, and thus where the locomotive is located. In the following, a digitally controlled solution is described, which is basically based on infrared passage measurement and [DCC E-stop](https://dccwiki.com/E-Stop) (emergency stop) via the [DiMAX Feed Back module](/image/Massoth-8170010-Dimax-FB-Feedback-module.jpg) ([Discontinued model](/image/Massoth-8170001-Dimax-Feedback-module.png)).
 
 <br/>
 
