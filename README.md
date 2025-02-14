@@ -32,7 +32,7 @@ Unlike some other suppliers, Massoth Central Station disconnects the power to th
 
 By pressing the Emergency Stop button on your [throttle](https://dccwiki.com/Throttle) the command station generates a broadcast packet with the E-Stop command and that is immediately transmitted to the [booster](https://dccwiki.com/Booster) and onto the rails. Everything in motion will immediately stop. The Standard states that the decoder shall immediately cease applying power to the motor.
 
-## Reflection and Refraction concept
+## Reflection and Break Beam concept
 ![](/image/Infrared%20break%20beam%20solution.png)
 
 ### Advantages 
@@ -63,7 +63,14 @@ This alarm state is “locked” until the green button = Reset is pressed. This
 
 ![](/image/Chronological%20Process%20Overview.png)
 
+
+## Fuld dokumentation (Danish)
+
+[V6 Nødstop for lokomotiver med Massoth dekoder og Power Cap.pdf](https://github.com/MTD2A/Train_Emergency_Stop/blob/main/doc/V6%20N%C3%B8dstop%20for%20lokomotiver%20med%20Massoth%20dekoder%20og%20Power%20Cap.pdf)
+
 <br/>
+
+## To do
 
 - [X] Arduino code ready to use with english inline program documentation :tada:
 - [ ] Convert rest of 40 pages of documentation from Danish to English. 
